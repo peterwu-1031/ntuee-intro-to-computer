@@ -7,4 +7,5 @@
 ### <pre>   output the level of x </pre>
 ### <pre> if (x is not in the tree) </pre>
 ### <pre>   insert x into the tree and output the level of x </pre>
-## How to run:  python3 main.py [test_case](representing a capital letter)
+## How to run:
+### <pre> python3 main.py [test_case](representing a capital letter.) </pre>
