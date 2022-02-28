@@ -1,5 +1,5 @@
 ## Problem1 (14%): 
-### Count the employees who live in Reade St.
+### Count the employees who live in Reade St..
 ## Problem2 (14%): 
 ### Count the assignments which started in 2010 and and terminated in 2011.
 ## Problem3 (14%): 
@@ -9,6 +9,6 @@
 ## Problem5 (14%): 
 ### Find which jobs are the top 5 most popular in Assignment.
 ## Problem6 (14%): 
-### Counts the department of the job which Aiden evolved with
+### Counts the department of the job which Aiden evolved with.
 ## Problem7 (16%): 
 ### Sort the number of department of job in descending order which evolved by employees, list the Dept and their Count.
