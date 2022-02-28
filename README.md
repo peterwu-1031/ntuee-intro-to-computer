@@ -1,4 +1,4 @@
 # NTUEE Introduction to Computer Concepts HW
-## Basic Python Programming
-## Creating personal website using HTML
-## Basic SQL Programming
+## HW1: Basic Python Programming
+## HW2: Creating personal website using HTML
+## HW3: Basic SQL Programming
