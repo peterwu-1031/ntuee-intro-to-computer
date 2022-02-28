@@ -1,3 +1,13 @@
+# How to run:
+## 1. Open MySQL:
+### sudo mysql -u root -p
+## 2. Create database call “hw6”:
+### Create database hw6;
+## 3. Import homework6 database
+### source [datapath]/hw6.sql;
+## 4. Select Database:
+### use hw6;
+# Problems:
 ## Problem1 (14%): 
 ### Count the employees who live in Reade St..
 ## Problem2 (14%): 
