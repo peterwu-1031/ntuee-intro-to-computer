@@ -4,7 +4,7 @@
 ### (b) To store this BST.
 ### (c) To take an input letter x, which is one of the 26 letters, so that:
 ### <pre> if (x is in the tree) </pre>
-### &nbsp &nbsp output the level of x (suppose the root is in level 1)
-### &nbsp if (x is not in the tree)
-### &nbsp &nbsp insert x into the tree and output the level of x
+### <pre>  output the level of x </pre>
+### <pre> if (x is not in the tree) </pre>
+### <pre>  insert x into the tree and output the level of x </pre>
 ## How to run:  python3 main.py [test_case](representing a capital letter)
