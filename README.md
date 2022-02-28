@@ -1,6 +1,6 @@
 # NTUEE Introduction to Computer Concepts HW
 ## HW1: Basic Python Programming
-###  HW1-1: Basics <br />
+### HW1-1: Basics
 ### HW1-2: Binary Insertion Sort
 ### HW1-3: Binary Search Tree
 ### 
