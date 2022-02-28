@@ -1,4 +1,4 @@
-# How to run:
+# Environment Setting:
 ## 1. Open MySQL:
 ### sudo mysql -u root -p
 ## 2. Create database call “hw6”:
