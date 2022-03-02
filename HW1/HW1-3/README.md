@@ -8,4 +8,4 @@
 ### <pre> if (x is not in the tree) </pre>
 ### <pre>   insert x into the tree and output the level of x </pre>
 ## How to run:
-### <pre> python3 main.py [test_case](representing a capital letter.) </pre>
+### <pre> python3 main.py [test_case](representing a capital letter) </pre>
